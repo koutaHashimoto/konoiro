@@ -1,0 +1,6 @@
+framework module Pods_konoiro_paint_konoiro_paintUITests {
+  umbrella header "Pods-konoiro-paint-konoiro-paintUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

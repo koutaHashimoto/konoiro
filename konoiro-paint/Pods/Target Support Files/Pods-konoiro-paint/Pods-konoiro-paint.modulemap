@@ -1,0 +1,6 @@
+framework module Pods_konoiro_paint {
+  umbrella header "Pods-konoiro-paint-umbrella.h"
+
+  export *
+  module * { export * }
+}
